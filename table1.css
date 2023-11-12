@@ -37,3 +37,9 @@ table,tr,th,td{
 td{
     padding: 15px;
 }
+.xxx{
+    background-color: red;
+    color: white;
+    padding: 2px;
+    border-radius: 2px;
+}
