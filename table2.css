@@ -1,0 +1,42 @@
+.container{
+    width: 90%;
+    margin: auto;
+    /* background-color: blue; */
+    
+}
+table{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+  
+}
+
+
+caption,.cap{
+    /* background-color: red; */
+    /* border: 1px solid; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 15px;
+}
+table,tr,th,td{
+    /* background-color: aqua; */
+    border-bottom: 2px solid gray;
+    border-collapse: collapse;
+    
+}
+.thc,th{
+    background-color: #010115ad;
+    color: white;
+    padding: 10px;
+}
+td{
+    padding: 15px;
+}
+
+ /* :nth-child(even){
+    background-color: red;
+ } */
+
+
+ /* pls am sick this is where my anergy reach for now */
